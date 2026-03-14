@@ -4,6 +4,8 @@
 
 The repository is designed for agent workflows rather than as a standalone end-user application. Its primary contract is [`SKILL.md`](SKILL.md). Ecosystem-specific metadata such as `agents/openai.yaml` is optional and non-authoritative.
 
+Chinese documentation: [`README.zh-CN.md`](README.zh-CN.md)
+
 ## What The Skill Does
 
 The skill helps an agent:
