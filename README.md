@@ -8,7 +8,7 @@ The repository is designed for agent workflows rather than as a standalone end-u
 
 The skill helps an agent:
 
-- detect when an academic PPT or PDF request should be handled as Beamer
+- detect when an academic PDF or PPT request should be handled as Beamer
 - ask follow-up questions when planning details are missing
 - generate slide content from either a topic or source material
 - consume agent-derived descriptions for non-text inputs such as screenshots or rendered PDF pages
