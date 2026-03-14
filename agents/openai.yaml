@@ -1,0 +1,4 @@
+version: 1
+display_name: Latex Beamer Generator
+short_description: Generate academic Beamer slide decks from a topic or source material.
+default_prompt: Create an academic Beamer presentation, asking follow-up questions first if key planning details are missing.
